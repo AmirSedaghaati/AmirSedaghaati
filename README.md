@@ -8,11 +8,11 @@
 - Multi-omics data integration and network biology
 
 ## Technical Skills
-**Programming:** Python, R, MATLAB  
+**Programming:** Python, R  
 **Molecular Modeling:** AutoDock, Schrödinger Suite, GROMACS, AMBER  
 **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
 **Bioinformatics:** RDKit, BioPython, ChemPy  
-**Machine Learning:** Scikit-learn, TensorFlow basics  
+
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
