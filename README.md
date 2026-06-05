@@ -51,4 +51,4 @@ Titles I'm applying for: Bioinformatics Scientist, Computational Biologist, Data
 🇬🇧 English — IELTS 7.0
 🇩🇪 German — A2. I study it daily.
 
-📫 amirbio1996@gmail.com · [LinkedIn](https://linkedin.com/in/amir-sedaghati) · [ORCID](https://orcid.org/0009-0002-6445-0329). [ResearchGate](https://www.researchgate.net/profile/Amir-Sedaghati?ev=hdr_xprf)
+📫 amirbio1996@gmail.com [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:اamirbio1996@gmail.com)· [LinkedIn](https://linkedin.com/in/amir-sedaghati) · [ORCID](https://orcid.org/0009-0002-6445-0329). [ResearchGate](https://www.researchgate.net/profile/Amir-Sedaghati?ev=hdr_xprf)
