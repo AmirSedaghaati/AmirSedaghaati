@@ -33,7 +33,7 @@ Published: [Current Gene Therapy](https://doi.org/10.2174/1566523222666220405134
 
 Docked walnut husk metabolites against pectate lyase Pel3 using AutoDock Vina.
 Aesculin ranked first at −6.39 kcal/mol. Confirmed with 100 ns MD and τRAMD.
-Published: [Biochemical and Biophysical Reports, 2025](https://doi.org/10.1016/j.bbrep.2025.102171)
+Published: [Biochemical and Biophysical Reports](https://doi.org/10.1016/j.bbrep.2025.102171)
 
 Screened against MAO-A, Synapsin I, and Synapsin II in parallel.
 12 multi-target hits refined via pharmacophore modeling. Under review.
