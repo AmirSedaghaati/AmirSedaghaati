@@ -19,22 +19,20 @@ Published: [Current Gene Therapy](https://doi.org/10.2174/1566523222666220405134
 Docked walnut husk metabolites against pectate lyase Pel3 using AutoDock Vina. Aesculin ranked first at −6.39 kcal/mol.
 Published: [Biochemical and Biophysical Reports](https://doi.org/10.1016/j.bbrep.2025.102171)
 
-Screened the compound libraries in parallel against MAO-A, Synapsin I, and Synapsin II.
-Selected 12 multi target hits and optimized using the pharmacophore models.
-Status: Manuscript under review — Scientific African
+Screened the compound libraries against MAO-A, Synapsin I and Synapsin II using parallel screening. 12 multi target hits chosen, optimized based on the pharmacophore models. Manuscript submitted and currently in review- Scientific African
 
 ---
 
 ### What I'm looking for
 
-A role in Germany - Bioinformatics Scientist, Computational Biologist or Data Scientist (Life Sciences) in a group where the computational and wet-lab are closely intertwined. Available for face-to-face interview, and willing to relocate.
+I am looking for an employment in Germany as a Bioinformatics scientist, Computational biologist or Data scientist in a life science research group where computation and wet-lab work is closely linked together. I can start at the earliest possible date, attend a face-to-face interview and can relocate.
 
 ---
 
 ### Languages
 
 🇬🇧 English — IELTS 7.0
-🇩🇪 German — A2, everyday practicing toward B1/B2
+🇩🇪 German — A2, learning the language towards B1/B2
 
 ---
 
