@@ -15,6 +15,8 @@ I filter compound libraries using RDKit (Lipinski, ADMET), pass them to AutoDock
 - **[pubchem-metabolite-descriptor-fetcher](https://github.com/AmirSedaghaati/pubchem-metabolite-descriptor-fetcher)** — Python + R pipeline that batch-fetches physicochemical descriptors from PubChem and visualizes drug-likeness against Lipinski/TPSA thresholds.
 - **[vina-docking-pipeline](https://github.com/AmirSedaghaati/vina-docking-pipeline)** — Parses, filters, and ranks AutoDock Vina docking output; generates a ranked hit list and affinity chart.
 - **[cadd-fastapi-service](https://github.com/AmirSedaghaati/cadd-fastapi-service)** — FastAPI service exposing CADD pipeline stages as REST endpoints for integration with automation tools like n8n. *(Active development — see repo README for current endpoint status.)*
+- **[md-trajectory-analysis](https://github.com/AmirSedaghaati/md-trajectory-analysis)** — RMSD/RMSF analysis of a short GROMACS MD simulation, with PyMOL structure rendering.
+- **[n8n-automation-examples](https://github.com/AmirSedaghaati/n8n-automation-examples)** — Webhook-triggered n8n workflow: PubChem lookup, Lipinski filtering, branching error handling, and Google Sheets logging.
 
 ---
 
@@ -26,7 +28,7 @@ Published: [Current Gene Therapy](https://doi.org/10.2174/1566523222666220405134
 Docked walnut husk metabolites against pectate lyase Pel3 using AutoDock Vina, then validated the top hit with molecular dynamics and τRAMD. Aesculin ranked first in initial screening at −6.39 kcal/mol; subsequent MD/τRAMD analysis characterized it as a moderate, reversible inhibitor with a short residence time.
 Published: [Biochemical and Biophysical Reports](https://doi.org/10.1016/j.bbrep.2025.102171)
 
-Led a multi-target virtual screening campaign across three neurodegenerative targets (MAO-A, Synapsin I, Synapsin II), narrowing the field to 12 multi-target hits through pharmacophore modeling.
+Network-Based Transcriptomics Identifies Key Hippocampal Targets in Alzheimer’s Disease and Their Modulation by Apigenin, Luteolin, and Berberine.
 Manuscript submitted, currently under review.
 
 ---
