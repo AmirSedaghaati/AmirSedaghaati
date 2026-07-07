@@ -35,14 +35,13 @@ Manuscript submitted, currently under review.
 
 ### What I'm looking for
 
-A position in Germany as a Bioinformatics Scientist, Computational Biologist, or Data Scientist in a life-science research group where computation and wet-lab work are closely linked. Available to start immediately, can attend in-person interviews, and able to relocate.
+Seeking research-oriented opportunities in computational biology, bioinformatics, and computational drug discovery — open to industry positions as well as funded Master's/PhD programs, primarily across Europe.
 
 ---
 
 ### Languages
 
-English — IELTS 7.0
-
+English — IELTS 7.0 <br>
 German — A2, working toward B1/B2
 
 ---
