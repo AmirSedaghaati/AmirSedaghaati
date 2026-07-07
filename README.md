@@ -42,6 +42,7 @@ A position in Germany as a Bioinformatics Scientist, Computational Biologist, or
 ### Languages
 
 English — IELTS 7.0
+
 German — A2, working toward B1/B2
 
 ---
