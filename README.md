@@ -35,7 +35,7 @@ Manuscript submitted, currently under review.
 
 ### What I'm looking for
 
-Seeking research-oriented opportunities in computational biology, bioinformatics, and computational drug discovery — open to industry positions as well as funded Master's/PhD programs, primarily across Europe.
+A research-oriented Bioinformatics Scientist, Computational Biologist, or Data Scientist role in a life-science group where computation and wet-lab work are closely linked — pursued alongside PhD/Master's applications in the same field. Primary focus is Germany, Netherlands, Switzerland, Denmark, Norway, and Ireland, and open elsewhere in Europe. Ready to relocate immediately on my end; actual start date depends on visa processing time.
 
 ---
 
@@ -47,7 +47,7 @@ German — A2, working toward B1/B2
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/amir-sedaghati" target="_blank">
+  <a href="https://www.linkedin.com/in/amir-sedaghati-475805139/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://orcid.org/0009-0002-6445-0329" target="_blank">
