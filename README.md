@@ -6,7 +6,7 @@ My background is wet-lab first — mesenchymal stem cell culture, ELISAs, the wh
 
 ### How I work
 
-I filter compound libraries using RDKit (Lipinski, ADMET), pass them to AutoDock Vina, and parse and rank the output in pandas. For molecular dynamics, I use GROMACS, post-process in MDAnalysis/MDTraj to produce RMSD/RMSF plots with matplotlib, and inspect structures in PyMOL. For publication-quality statistics, I use R/ggplot2. Connective tissue — PubChem lookups, pushes to shared sheets, database writes — is automated in n8n.
+My background started in wet-lab biology — mesenchymal stem cell culture, ELISAs, standard laboratory workflows. During my MSc, my research moved into molecular docking and molecular dynamics, and that shifted my long-term direction toward computational methods. I still build the automation that connects both sides.
 
 ---
 
@@ -25,7 +25,7 @@ I filter compound libraries using RDKit (Lipinski, ADMET), pass them to AutoDock
 Engineered human Wharton's jelly mesenchymal stem cells with a lentiviral vector to express erythropoietin (EPO) in a 4T1 breast cancer mouse model. Maintained therapeutic levels of plasma EPO, hemoglobin (Hb), and hematocrit (Hct) for over 10 weeks post-transplantation.
 Published: [Current Gene Therapy](https://doi.org/10.2174/1566523222666220405134136)
 
-Docked walnut husk metabolites against pectate lyase Pel3 using AutoDock Vina, then validated the top hit with molecular dynamics and τRAMD. Aesculin ranked first in initial screening at −6.39 kcal/mol; subsequent MD/τRAMD analysis characterized it as a moderate, reversible inhibitor with a short residence time.
+Docked walnut husk metabolites against pectate lyase Pel3 using AutoDock 4.2 as the primary method (AutoDock Vina 1.2 as a secondary cross-check), then validated the top hit — Aesculin — with molecular dynamics and τRAMD. MM-PBSA binding free energy ≈ -2.9 kcal/mol, average RAMD residence time ≈0.015 ns — consistent with moderate, reversible binding rather than a strong inhibitor.
 Published: [Biochemical and Biophysical Reports](https://doi.org/10.1016/j.bbrep.2025.102171)
 
 Network-Based Transcriptomics Identifies Key Hippocampal Targets in Alzheimer’s Disease and Their Modulation by Apigenin, Luteolin, and Berberine.
@@ -35,7 +35,7 @@ Manuscript submitted, currently under review.
 
 ### What I'm looking for
 
-A research-oriented Bioinformatics Scientist, Computational Biologist, or Data Scientist role in a life-science group where computation and wet-lab work are closely linked — pursued alongside PhD/Master's applications in the same field. Primary focus is Germany, Netherlands, Switzerland, Denmark, Norway, and Ireland, and open elsewhere in Europe. Ready to relocate immediately on my end; actual start date depends on visa processing time.
+A research-oriented position — Bioinformatics Scientist, Computational Biologist, or Computational Drug Discovery Scientist — in a life-science team where computation and wet-lab work are closely linked. Primarily targeting Germany, the Netherlands, Switzerland, Denmark, Norway, and Ireland, open to strong opportunities elsewhere. Visa sponsorship needed — happy to discuss timeline directly.
 
 ---
 
