@@ -10,11 +10,13 @@ My background started in wet-lab biology — mesenchymal stem cell culture, ELIS
 
 ### Projects
 
-- **[pubchem-metabolite-descriptor-fetcher](https://github.com/AmirSedaghaati/pubchem-metabolite-descriptor-fetcher)** — Python + R pipeline that batch-fetches physicochemical descriptors from PubChem and visualizes drug-likeness against Lipinski/TPSA thresholds.
-- **[vina-docking-pipeline](https://github.com/AmirSedaghaati/vina-docking-pipeline)** — Parses, filters, and ranks AutoDock Vina docking output; generates a ranked hit list and affinity chart.
-- **[cadd-fastapi-service](https://github.com/AmirSedaghaati/cadd-fastapi-service)** — FastAPI service exposing CADD pipeline stages as REST endpoints for integration with automation tools like n8n. *(Active development — see repo README for current endpoint status.)*
-- **[md-trajectory-analysis](https://github.com/AmirSedaghaati/md-trajectory-analysis)** — RMSD/RMSF analysis of a short GROMACS MD simulation, with PyMOL structure rendering.
-- **[n8n-automation-examples](https://github.com/AmirSedaghaati/n8n-automation-examples)** — Webhook-triggered n8n workflow: PubChem lookup, Lipinski filtering, branching error handling, and Google Sheets logging.
+- [alphafold-cadd-workflow](https://github.com/AmirSedaghaati/alphafold-cadd-workflow) — Automated CADD pipeline: AlphaFold structure prediction → Vina docking → Lipinski filtering, orchestrated with Nextflow (TREM2 target)
+- [AChE-QSAR-Machine-Learning](https://github.com/AmirSedaghaati/AChE-QSAR-Machine-Learning) — Random Forest QSAR pipeline predicting AChE inhibitor bioactivity (pIC50) from ChEMBL data and RDKit Morgan fingerprints
+- [pubchem-metabolite-descriptor-fetcher](https://github.com/AmirSedaghaati/pubchem-metabolite-descriptor-fetcher) — Python + R pipeline that batch-fetches physicochemical descriptors from PubChem and visualizes drug-likeness against Lipinski/TPSA thresholds
+- [cadd-fastapi-service](https://github.com/AmirSedaghaati/cadd-fastapi-service) — FastAPI service exposing CADD pipeline stages as REST endpoints for automation tools like n8n (active development)
+- [md-trajectory-analysis](https://github.com/AmirSedaghaati/md-trajectory-analysis) — RMSD/RMSF analysis of a short GROMACS MD simulation, with PyMOL structure rendering
+- [vina-docking-pipeline](https://github.com/AmirSedaghaati/vina-docking-pipeline) — Parses, filters, and ranks AutoDock Vina docking output; generates a hit list and affinity chart
+- [n8n-automation-examples](https://github.com/AmirSedaghaati/n8n-automation-examples) — Webhook-triggered n8n workflow: PubChem lookup, Lipinski filtering, branching error handling, and Google Sheets logging
 
 ---
 
