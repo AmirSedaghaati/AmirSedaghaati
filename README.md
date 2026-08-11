@@ -1,7 +1,5 @@
 ## Amir Sedaghati
 
-My background is wet-lab first — mesenchymal stem cell culture, ELISAs, the whole manual pipeline. I moved into computational work because data volumes stopped being manageable by hand. Now I build the automation that connects both sides.
-
 ---
 
 ### How I work
@@ -22,7 +20,7 @@ My background started in wet-lab biology — mesenchymal stem cell culture, ELIS
 
 ### Selected results
 
-Engineered human Wharton's jelly mesenchymal stem cells with a lentiviral vector to express erythropoietin (EPO) in a 4T1 breast cancer mouse model. Maintained therapeutic levels of plasma EPO, hemoglobin (Hb), and hematocrit (Hct) for over 10 weeks post-transplantation.
+Contributed to isolating human Wharton's Jelly mesenchymal stem cells and to lentiviral vector production used to engineer them to express erythropoietin (EPO), evaluated in a 4T1 breast cancer mouse model. The engineered cells maintained therapeutic plasma EPO, hemoglobin, and hematocrit levels for over 10 weeks post-transplantation. 
 Published: [Current Gene Therapy](https://doi.org/10.2174/1566523222666220405134136)
 
 Docked walnut husk metabolites against pectate lyase Pel3 using AutoDock 4.2 as the primary method (AutoDock Vina 1.2 as a secondary cross-check), then validated the top hit — Aesculin — with molecular dynamics and τRAMD. MM-PBSA binding free energy ≈ -2.9 kcal/mol, average RAMD residence time ≈0.015 ns — consistent with moderate, reversible binding rather than a strong inhibitor.
