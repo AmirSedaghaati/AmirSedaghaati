@@ -28,7 +28,8 @@ Published: [Current Gene Therapy](https://doi.org/10.2174/1566523222666220405134
 Docked walnut husk metabolites against pectate lyase Pel3 using AutoDock 4.2 as the primary method (AutoDock Vina 1.2 as a secondary cross-check), then validated the top hit — Aesculin — with molecular dynamics and τRAMD. MM-PBSA binding free energy ≈ -2.9 kcal/mol, average RAMD residence time ≈0.015 ns — consistent with moderate, reversible binding rather than a strong inhibitor.
 Published: [Biochemical and Biophysical Reports](https://doi.org/10.1016/j.bbrep.2025.102171)
 
-Network-Based Transcriptomics Identifies Key Hippocampal Targets in Alzheimer’s Disease and Their Modulation by Apigenin, Luteolin, and Berberine. Accepted for publication in Scientific African.
+Network-Based Transcriptomics Identifies Key Hippocampal Targets in Alzheimer’s Disease and Their Modulation by Apigenin, Luteolin, and Berberine. 
+Published: [Scientific African](https://doi.org/10.1016/j.sciaf.2026.e03564)
 
 ---
 
