@@ -35,7 +35,7 @@ Published: [Scientific African](https://doi.org/10.1016/j.sciaf.2026.e03564)
 
 ### What I'm looking for
 
-A research-oriented position — Bioinformatics Scientist, Computational Biologist, or Computational Drug Discovery Scientist — in a life-science team where computation and wet-lab work are closely linked. Primarily targeting Germany, the Netherlands, Switzerland, Denmark, Norway, and Ireland — though I'd consider a strong opportunity anywhere else, too. Visa sponsorship needed — happy to discuss timeline directly.
+A research-oriented position — Bioinformatics Scientist, Computational Biologist, or Computational Drug Discovery Scientist — in a life-science team where computation and wet-lab work are closely linked. Open to relocation in Europe; work authorization / visa timeline available on request. — happy to discuss timeline directly.
 
 ---
 
