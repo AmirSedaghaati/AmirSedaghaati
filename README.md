@@ -48,7 +48,7 @@ German — A2, working toward B1/B2
 ---
 
 <p align="center">
-  <a href="https://(https://www.linkedin.com/in/amir-sedaghati/)/" target="_blank">
+  <a href="https://(https://www.linkedin.com/in/amir-sedaghati)//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://orcid.org/0009-0002-6445-0329" target="_blank">
