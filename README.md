@@ -11,7 +11,8 @@ My background started in wet-lab biology — mesenchymal stem cell culture, ELIS
 ### Projects
 
 - [alphafold-cadd-workflow](https://github.com/AmirSedaghaati/alphafold-cadd-workflow) — Automated CADD pipeline: AlphaFold structure prediction → Vina docking → Lipinski filtering, orchestrated with Nextflow (TREM2 target)
-- [AChE-QSAR-Machine-Learning](https://github.com/AmirSedaghaati/AChE-QSAR-Machine-Learning) — Random Forest QSAR pipeline predicting AChE inhibitor bioactivity (pIC50) from ChEMBL data and RDKit Morgan fingerprints
+- [AChE-QSAR-Machine-Learning](https://github.com/AmirSedaghaati/AChE-QSAR-Machine-Learning) — QSAR pipeline predicting AChE inhibitor bioactivity (pIC50) from ChEMBL data and RDKit Morgan fingerprints; compares a Random Forest baseline (R²=0.722) against a PyTorch neural network (R²=0.710) on identical features and split
+- [proteomics-de-pipeline](https://github.com/AmirSedaghaati/proteomics-de-pipeline) — Differential protein abundance and KEGG/GO pathway enrichment in Alzheimer's disease hippocampus, using real published quantitative proteomics data (PXD034525); 369 significant proteins, top enriched pathway TCA cycle, STRING PPI hub-protein analysis
 - [pubchem-metabolite-descriptor-fetcher](https://github.com/AmirSedaghaati/pubchem-metabolite-descriptor-fetcher) — Python + R pipeline that batch-fetches physicochemical descriptors from PubChem and visualizes drug-likeness against Lipinski/TPSA thresholds
 - [cadd-fastapi-service](https://github.com/AmirSedaghaati/cadd-fastapi-service) — FastAPI service exposing CADD pipeline stages as REST endpoints for automation tools like n8n (active development)
 - [md-trajectory-analysis](https://github.com/AmirSedaghaati/md-trajectory-analysis) — RMSD/RMSF analysis of a short GROMACS MD simulation, with PyMOL structure rendering
@@ -47,7 +48,7 @@ German — A2, working toward B1/B2
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amir-sedaghati-475805139/" target="_blank">
+  <a href="https://(https://www.linkedin.com/in/amir-sedaghati/)/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://orcid.org/0009-0002-6445-0329" target="_blank">
